@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="11px" viewBox="0 0 15 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Equal Opportunity Logo</title>
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer" transform="translate(-309.000000, -207.000000)" fill="#037C4D">
+            <g id="Footer/Narrow-Logged-Out" transform="translate(50.000000, 92.000000)">
+                <g id="Group" transform="translate(127.000000, 112.000000)">
+                    <g id="Equal-Opportunity-Logo" transform="translate(132.000000, 3.000000)">
+                        <path d="M7.58457,0 L0,4.2243719 L0,5.7509541 L1.16194576,5.7509541 L1.16194576,11 L13.816923,11 L13.816923,5.7509541 L15,5.7509541 L15,4.26617549 L7.58457,0 Z M2.70380181,4.39300033 L7.58402817,1.59074584 L12.3586888,4.39300033 L12.3586888,9.66290383 L2.70380181,9.66290383 L2.70380181,4.39300033 Z" id="Fill-1"></path>
+                        <polygon id="Fill-2" points="5 6 10 6 10 5 5 5"></polygon>
+                        <polygon id="Fill-3" points="5 8 10 8 10 7 5 7"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
